@@ -100,10 +100,10 @@ Lead generation was supported through:
 
 > Add your screenshots inside a `screenshots/` folder and link them here.
 
-![Homepage](screenshots/homepage.png)
-![Services](screenshots/services.png)
-![Mobile View](screenshots/mobile.png)
-![Contact](screenshots/contact.png)
+![Homepage](Firstclasscustoms%201.png)
+![Homepage](Firstclasscustoms%202.png)
+![Homepage](Firstclasscustoms%203.png)
+
 
 ---
 
