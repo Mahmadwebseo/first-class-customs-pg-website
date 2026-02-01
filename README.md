@@ -98,8 +98,6 @@ Lead generation was supported through:
 
 ## Screenshots
 
-> Add your screenshots inside a `screenshots/` folder and link them here.
-
 ![Homepage](Firstclasscustoms%201.png)
 ![Homepage](Firstclasscustoms%202.png)
 ![Homepage](Firstclasscustoms%203.png)
@@ -109,6 +107,6 @@ Lead generation was supported through:
 
 ## Author
 
-Designed by **(Your Name Here)**  
+Designed by **(Muhammad Ahmad)**  
 WordPress Developer | UI/UX Focus | Conversion-Based Websites
 
